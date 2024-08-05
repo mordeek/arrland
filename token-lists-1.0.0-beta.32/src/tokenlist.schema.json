@@ -1,14 +1,26 @@
-"name": "Pirates of the Arrland",
-  "logoURI": "https://i.ibb.co/23BjmCB/dovepad-logo.png",
-  "keywords": [
-    "Gaming Token",
-    "verified",
-    "Ecosystem tokens"
+"$id": "https://uniswap.org/tokenlist.schema.json",
+  "title": "Uniswap Token List",
+  "description": "Schema for lists of tokens compatible with the Uniswap Interface",
+"name": "Pirates of the Arrland Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+  "tokens": [
+    {
+      "address": "0x14E5386f47466A463f85D151653E1736c0c50Fc3",
+      "decimals": 18,
+      "chainId": 1,
+      "name": "Pirates of the Arrland",
+      "symbol": "RUM",
+      "logoURI": "https://ibb.co/sm6g5DN",
+      "tags": [],
+      "extensions": {}
   ],
-  "tags": {
-    "Gaming Token": {
-      "name": "RUM",
-      "description": "RUM is a limited-supply, deflationary utility token used to purchase in-game services in Pirates of the Arrland game."
-    },
-
-  },
+  "keywords": [
+    "Pirates of the Arrland",
+    "Arrland",
+    "RUM"
+    "token"
+  ],
