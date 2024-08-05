@@ -1,4 +1,4 @@
-"$id": "https://uniswap.org/tokenlist.schema.json",
+ "$id": "https://uniswap.org/tokenlist.schema.json",
   "title": "Uniswap Token List",
   "description": "Schema for lists of tokens compatible with the Uniswap Interface",
 "name": "Pirates of the Arrland Token List",
@@ -20,7 +20,9 @@
     }
   "keywords": [
     "Pirates of the Arrland",
-    "Arrland",
-    "RUM"
+    "RUM",
     "token"
   ],
+  "tags": {},
+  "logoURI": "https://ibb.co/sm6g5DN"
+}
